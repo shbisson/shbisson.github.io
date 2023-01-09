@@ -6,7 +6,7 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 8 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -26,5 +26,31 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/sbisson"
+  name = "twitter"
+  url = "https://twitter.com/sbisson"
+  label = "@sbisson"
+[[params.ananke_socials]]
+  name = "mastodon"
+  rel = "me"
+  url = "https://mastodon.social/@sbisson"
+  label = "@sbisson"
+[[params.ananke_socials]]
+  name = "instagram"
+  url = "https://www.instagram.com/sbisson/"
+  label = "@sbisson"
+[[params.ananke_socials]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/sbisson/"
+  label = "Simon Bisson"
+[[params.ananke_socials]]
+  name = "github"
+  url = "https://github.com/shbisson"
+  label = "@shbisson"
+[[params.ananke_socials]]
+  name = "facebook"
+  url = "https://www.facebook.com/sbisson/"
+  label = "Simon Bisson"
+[[params.ananke_socials]]
+  name = "youtube"
+  url = "https://www.youtube.com/@sbisson"
+  label = "@sbisson"
