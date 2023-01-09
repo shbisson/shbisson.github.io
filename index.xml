@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Bisson</title>
+    <link>https://sbisson.com/</link>
+    <description>Recent content on Simon Bisson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://sbisson.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://sbisson.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbisson.com/about/</guid>
+      <description>Author of InfoWorld&amp;rsquo;s Enterprise Microsoft column, Simon Bisson prefers to think of &amp;ldquo;career&amp;rdquo; as a verb rather than a noun, having worked in academic and telecoms research, as well as having been the CTO of a startup, running the technical side of UK Online (the first national ISP with content as well as connections), before moving into consultancy and technology strategy. He’s built plenty of large-scale web applications, designed architectures for multi-terabyte online image stores, implemented B2B information hubs, and come up with next generation mobile network architectures and knowledge management solutions.</description>
+    </item>
+    
+  </channel>
+</rss>
