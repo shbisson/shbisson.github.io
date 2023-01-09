@@ -1,0 +1,4 @@
+---
+title: About
+---
+Author of InfoWorld's Enterprise Microsoft column, Simon Bisson prefers to think of "career" as a verb rather than a noun, having worked in academic and telecoms research, as well as having been the CTO of a startup, running the technical side of UK Online (the first national ISP with content as well as connections), before moving into consultancy and technology strategy. He’s built plenty of large-scale web applications, designed architectures for multi-terabyte online image stores, implemented B2B information hubs, and come up with next generation mobile network architectures and knowledge management solutions. In between doing all that, he’s been a freelance journalist since the early days of the web and writes about everything from enterprise architecture to gadgets.
