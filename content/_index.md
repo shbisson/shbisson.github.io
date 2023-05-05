@@ -6,21 +6,24 @@ Technology journalist and writer
 
 Find me online at:  
 
-[BlueSky](https://staging.bsky.app/profile/sbisson.com)  
+[BlueSky](https://staging.bsky.app/profile/sbisson.com)
 
-[Twitter](https://twitter.com/sbisson)  
+[Twitter](https://twitter.com/sbisson)
 
-[Mastodon](https://mastodon.social/@sbisson)  
+[Mastodon](https://mastodon.social/@sbisson)
 
-[GitHub](https://github.com/shbisson)  
+[GitHub](https://github.com/shbisson)
 
-[Flickr](https://www.flickr.com/photos/sbisson/)  
+[Flickr](https://www.flickr.com/photos/sbisson/)
 
 [Instagram](https://www.instagram.com/sbisson/)  
 
 [Dreamwidth](https://sbisson.dreamwidth.org/)  
 
-[Untappd](https://untappd.com/user/sbisson)  
+[Untappd](https://untappd.com/user/sbisson)
 
+Writings:
+
+[Amazon Author Page](https://www.amazon.co.uk/Simon-Bisson/e/B0034Q12WM?ref=sr_ntt_srch_lnk_1&qid=1683288917&sr=8-1)
 
 Contact me for Signal/WhatsApp/Telegram
