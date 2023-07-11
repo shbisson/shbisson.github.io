@@ -11,7 +11,9 @@ I've also designed and delivered many large-scale web applications, including on
 
 I've been a freelance journalist since the early days of the web and writes about everything from enterprise architecture to gadgets, specialising in developer and enterprise.
 
-You'll have seen my words in magazines, national newspapers, and online. Places I've written for include The Guardian, The Financial Times, InfoWorld, ComputerWorld, TechRepublic, The New Stack, ZDNet, IT Pro, PC Plus, .Net, The Register, Internet Works, PC Answers, Computing, Computer Weekly, Cloud Pro, Data Center Dynamics, Grey Matter's Hardcopy, IT Pro Today, Techradar, Application Development Advisor, CITEWorld, CreativBloq, Data Business, IT Expert, Information Age, It's Open, IT Week, Know Your Mobile, PC Advisor, PC Format, PC Magazine, PCW, Petri, Practical Web Pages, International Developer, Server Management, Network News, The H, Tom's Guide, Web Designer, The OFficial Windows XP Magazine, Demon Dispatches, and T3.
+You'll have seen my words in magazines, national newspapers, and online. Places I've written for include The Guardian, The Financial Times, InfoWorld, ComputerWorld, TechRepublic, The New Stack, Woody's Watch, ZDNet, IT Pro, PC Plus, .Net, The Register, Internet Works, PC Answers, Computing, Computer Weekly, Cloud Pro, Data Center Dynamics, Grey Matter's Hardcopy, IT Pro Today, Techradar, Application Development Advisor, CITEWorld, CreativBloq, Data Business, IT Expert, Information Age, It's Open, IT Week, Know Your Mobile, PC Advisor, PC Format, PC Magazine, PCW, Petri, Practical Web Pages, International Developer, Server Management, Network News, The H, Tom's Guide, Web Designer, The Official Windows XP Magazine, Demon Dispatches, and T3.
+
+My work has been translated into many languages, including Korean, French, Japanese, and German.
 
 I've also written fiction reviews for SFX and Vector.
 
