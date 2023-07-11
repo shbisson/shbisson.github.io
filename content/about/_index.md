@@ -5,7 +5,7 @@ featured_image: '/images/1500x500.jpg'
 ![Simon Bisson headshot](/images/headshot2023.png)
 I prefer to think of "career" as a verb rather than a noun, having worked in academic and telecoms research, as well as having been the CTO of a startup, before several years in IT strategy consultancy. That's led me to building elements of megawatt radio systems, writing electromagnetic finite element analysis software, designing protocols for high speed wireless networks, as well as building and running the technical side of one of the UK's first national ISPs.
 
-I've also designed and delivered many large-scale web applications, including one of the first consumer photo services, with a multi-terabyte online image store, implemented B2B information hubs, and come up with next generation mobile network architectures And that was all before I became a full time writer.
+I've also designed and delivered many large-scale web applications, including one of the first consumer photo services, with a multi-terabyte online image store, designed the infrastrucutre for the first multi-million user webmail service, implemented B2B information hubs, and come up with next generation mobile network architectures And that was all before I became a full time writer.
 
 *"I built stuff, I coded stuff, I thought about stuff, I ran stuff, I designed stuff, I told people how to do stuff, now I write about stuff."*
 
