@@ -10,6 +10,7 @@ Find me online at:
 
 [Threads](https://www.threads.net/@sbisson)  
 [BlueSky](https://bsky.app/profile/sbisson.com)  
+[LinkedIn](https://https://www.linkedin.com/in/sbisson/)  
 [Twitter](https://twitter.com/sbisson)  
 [Mastodon](https://mastodon.social/@sbisson)  
 [GitHub](https://github.com/shbisson)  
@@ -21,5 +22,6 @@ Find me online at:
 Writings:
 
 [Amazon Author Page](https://www.amazon.co.uk/Simon-Bisson/e/B0034Q12WM?ref=sr_ntt_srch_lnk_1&qid=1683288917&sr=8-1)
+[Goodreads Author Page](https://www.goodreads.com/author/show/6921340.Simon_Bisson)  
 
 Contact me for Signal/WhatsApp/Telegram
