@@ -25,3 +25,5 @@ Writings:
 [Goodreads Author Page](https://www.goodreads.com/author/show/6921340.Simon_Bisson)  
 
 Contact me for Signal/WhatsApp/Telegram
+
+Email: simon@sandm.co.uk
