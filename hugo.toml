@@ -25,7 +25,7 @@ enableRobotsTXT = true
   background_color_class = "bg-light-blue"
   recent_posts_number = 3
 
-[ananke.social.follow]
+[params.ananke.social.follow]
 networks = [
   "bluesky",
   "mastodon",
