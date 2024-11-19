@@ -25,33 +25,38 @@ enableRobotsTXT = true
   background_color_class = "bg-light-blue"
   recent_posts_number = 3
 
-[[params.ananke_socials]]
-  name = "bluesky"
+[ananke.social.follow]
+new_window_icon = false
+networks = [
+  "bluesky",
+  "mastodon",
+  "instagram",
+  "linkedin",
+  "github",
+  "facebook",
+  "youtube"
+]
 
-  url = "https://bsky.app/profile/sbisson.com"
+[[params.ananke_socials.bluesky]]
+  username = "@sbisson.com"
+  profilelink = "https://bsky.app/profile/sbisson.com"
   label = "@sbisson.com"
-[[params.ananke_socials]]
-  name = "mastodon"
+[[params.ananke_socials.mastodon]]
   rel = "me"
-  url = "https://mastodon.social/@sbisson"
+  profilelink = "https://mastodon.social/@sbisson"
+  label = "@sbisson@mastodon.social"
+[[params.ananke_socials.instagram]]
+  profilelink = "https://www.instagram.com/sbisson/"
   label = "@sbisson"
-[[params.ananke_socials]]
-  name = "instagram"
-  url = "https://www.instagram.com/sbisson/"
-  label = "@sbisson"
-[[params.ananke_socials]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/sbisson/"
+[[params.ananke_socials.linkedin]]
+  profilelink = "https://www.linkedin.com/in/sbisson/"
   label = "Simon Bisson"
-[[params.ananke_socials]]
-  name = "github"
-  url = "https://github.com/shbisson"
+[[params.ananke_socials.github]]
+  profilelink = "https://github.com/shbisson"
   label = "@shbisson"
-[[params.ananke_socials]]
-  name = "facebook"
-  url = "https://www.facebook.com/sbisson/"
+[[params.ananke_socials.facebook]]
+  profilelink = "https://www.facebook.com/sbisson/"
   label = "Simon Bisson"
-[[params.ananke_socials]]
-  name = "youtube"
-  url = "https://www.youtube.com/@sbisson"
+[[params.ananke_socials.youtube]]
+  profilelink = "https://www.youtube.com/@sbisson"
   label = "@sbisson"
