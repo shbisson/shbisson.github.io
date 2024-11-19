@@ -27,7 +27,6 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
   name = "bluesky"
-  icon = "bluesky"
   url = "https://bsky.app/profile/sbisson.com"
   label = "@sbisson.com"
 [[params.ananke_socials]]
