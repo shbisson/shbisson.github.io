@@ -37,26 +37,26 @@ networks = [
   "youtube"
 ]
 
-[[params.ananke_socials.bluesky]]
+[[params.ananke.social.bluesky]]
   username = "@sbisson.com"
   profilelink = "https://bsky.app/profile/sbisson.com"
   label = "@sbisson.com"
-[[params.ananke_socials.mastodon]]
+[[params.ananke.social.mastodon]]
   rel = "me"
   profilelink = "https://mastodon.social/@sbisson"
   label = "@sbisson@mastodon.social"
-[[params.ananke_socials.instagram]]
+[[params.ananke.social.instagram]]
   profilelink = "https://www.instagram.com/sbisson/"
   label = "@sbisson"
-[[params.ananke_socials.linkedin]]
+[[params.ananke.social.linkedin]]
   profilelink = "https://www.linkedin.com/in/sbisson/"
   label = "Simon Bisson"
-[[params.ananke_socials.github]]
+[[params.ananke.social.github]]
   profilelink = "https://github.com/shbisson"
   label = "@shbisson"
-[[params.ananke_socials.facebook]]
+[[params.ananke.social.facebook]]
   profilelink = "https://www.facebook.com/sbisson/"
   label = "Simon Bisson"
-[[params.ananke_socials.youtube]]
+[[params.ananke.social.youtube]]
   profilelink = "https://www.youtube.com/@sbisson"
   label = "@sbisson"
