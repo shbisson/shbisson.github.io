@@ -1,7 +1,7 @@
 title = "Simon Bisson"
 baseURL = "https://sbisson.com"
 languageCode = "en-us"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = "ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
@@ -27,6 +27,7 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
   name = "bluesky"
+
   url = "https://bsky.app/profile/sbisson.com"
   label = "@sbisson.com"
 [[params.ananke_socials]]
