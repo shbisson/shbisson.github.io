@@ -26,7 +26,6 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [ananke.social.follow]
-new_window_icon = false
 networks = [
   "bluesky",
   "mastodon",
@@ -38,13 +37,13 @@ networks = [
 ]
 
 [params.ananke.social.bluesky]
-  username = "@sbisson.com"
+  username = "sbisson.com"
   profilelink = "https://bsky.app/profile/sbisson.com"
 
 [params.ananke.social.mastodon]
   rel = "me"
   profilelink = "https://mastodon.social/@sbisson"
-  usewname = "@sbisson@mastodon.social"
+  usewname = "sbisson"
 
 [params.ananke.social.instagram]
   profilelink = "https://www.instagram.com/sbisson/"
@@ -64,4 +63,4 @@ networks = [
 
 [params.ananke.social.youtube]
   profilelink = "https://www.youtube.com/@sbisson"
-  username = "@sbisson"
+  username = "sbisson"
