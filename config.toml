@@ -26,9 +26,9 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-  name = "twitter"
-  url = "https://twitter.com/sbisson"
-  label = "@sbisson"
+  name = "bluesky"
+  url = "https://bsky.app/profile/sbisson.com"
+  label = "@sbisson.com"
 [[params.ananke_socials]]
   name = "mastodon"
   rel = "me"

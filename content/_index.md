@@ -12,7 +12,8 @@ Find me online at:
 
 [BlueSky](https://bsky.app/profile/sbisson.com)  
 [Threads](https://www.threads.net/@sbisson)  
-[LinkedIn](https://https://www.linkedin.com/in/sbisson/)  
+[LinkedIn](https://https://www.linkedin.com/in/sbisson/)   
+[YouTube](https://www.youtube.com/@sbisson)  
 [Mastodon](https://mastodon.social/@sbisson)  
 [GitHub](https://github.com/shbisson)  
 [Flickr](https://www.flickr.com/photos/sbisson/)  

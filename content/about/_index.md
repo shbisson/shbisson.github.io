@@ -19,6 +19,6 @@ My work has been translated into many languages, including Korean, French, Japan
 
 I've also written fiction reviews for SFX and Vector.
 
-Some of my [earliest writing](https://sbisson.tumblr.com/) has been excavated from a dying hard disk.
+Some of my [earliest writing](https://sbisson.tumblr.com/) has been excavated from a dying hard disk. Or how about [a 30-year old website?](https://sbisson1995.azurewebsites.net/)
 
 I've also inadvertantly been an [alternate history](https://www.zdnet.com/article/a-glimpse-into-alternate-tech-history-with-the-apple-newton/).
