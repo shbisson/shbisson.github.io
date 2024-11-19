@@ -4,7 +4,7 @@ featured_image: '/images/1500x500.jpg'
 ---
 Technology journalist and writer, specialising in explainers and analytical features, writing about developer tools, technologies, and methodologies, with a focus on Microsoft and its platforms.
 
-My writing builds on many years of experience as hardware developer, softwaSre developer, research engineer, CTO, systems architect, and technology strategy consultant.
+My writing builds on many years of experience as hardware developer, software developer, research engineer, CTO, systems architect, and technology strategy consultant.
 
 I also write books.
 
